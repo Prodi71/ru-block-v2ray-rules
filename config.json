@@ -9,7 +9,7 @@
             }
         },
         {
-            "type": "private",
+            "type": "ru-block",
             "action": "add"
         }
     ],
